@@ -1,0 +1,43 @@
+body{
+    text-align:center;
+    background-color:antiquewhite;
+}
+.btn{
+    height: 200px;
+    width:200px;
+    border:1px solid black;
+    border-radius: 20%;
+    margin:5px;
+   
+}
+.btn-container{
+    display: flex;
+     justify-content: center;
+}
+
+
+.y{
+    background-color: #f99b45;
+}
+.p
+{
+    background-color: #d95980;
+}
+.r{
+    background-color: #7a0505;
+}
+.g
+{
+    background-color: #0b552a;
+}
+.flash{
+    background-color:white;
+}
+
+
+#footer{
+    position: fixed;
+    bottom:10px;
+    left:650px;
+    background-color: cadetblue;
+}
